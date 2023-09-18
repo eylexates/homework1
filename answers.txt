@@ -1,0 +1,2 @@
+What is a remote repository? 
+a remote repository is a repository that can be edited and does not change the last save until you use git commit
