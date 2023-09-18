@@ -1,0 +1,2 @@
+What is the difference between a merge and a rebase?
+a merge combines two files that have been edited while a rebase updates the branch to a latter commit
